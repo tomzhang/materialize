@@ -1836,9 +1836,9 @@ dependencies = [
 
 [[package]]
 name = "libc"
-version = "0.2.86"
+version = "0.2.93"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "b7282d924be3275cec7f6756ff4121987bc6481325397dde6ba3e7802b1a8b1c"
+checksum = "9385f66bf6105b241aa65a61cb923ef20efc665cb9f9bb50ac2f0c4b7f378d41"
 
 [[package]]
 name = "libm"
@@ -4054,9 +4054,9 @@ dependencies = [
 
 [[package]]
 name = "sysinfo"
-version = "0.16.3"
+version = "0.17.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "c3d39c47be321239a7b3d232d733e58b257c6727167e61ee18c87cd2fa2b5b1b"
+checksum = "ec595b5d987c593c170ced49ae3aa4b3a6bea078b638866c38043155fd614812"
 dependencies = [
  "cfg-if 1.0.0",
  "core-foundation-sys",
